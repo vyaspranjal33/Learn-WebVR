@@ -66,6 +66,13 @@ https://aframe.io/aframe-school/#/
 
 https://medium.com/lightspeed-idea/webvr-50213e3cbef0
 
+## Books
+
+[Learning Virtual Reality](https://www.amazon.in/Learning-Developing-Immersive-Experiences-Applications/dp/9352132572) - Developing Immersive Experiences and Applications for Desktop, Web, and Mobile By Tony Parisi
+
+[Learning WebVR](https://www.amazon.in/Learning-Web-based-Virtual-Reality-Technology/dp/1484227093) - Learning Web-based Virtual Reality: Build and Deploy Web-based Virtual Reality Technology
+By [Srushtika Neelakantam](https://github.com/Srushtika) 
+
 ## Podcasts
 
 http://www.vudream.com/11-top-vr-ar-podcasts-right-now-worth-listening-virtual-augmented-reality/
