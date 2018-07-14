@@ -46,7 +46,9 @@ https://virtualrealitypop.com/getting-started-with-webvr-cd40d3d7f5db
 
 ## Resources
 
-[Aframe Tutorials](https://www.youtube.com/watch?v=dv6_C4UqTfs&list=PLRtjMdoYXLf4inSULAHyCMqpIUj4cmBTr)
+[A-frame Tutorials](https://www.youtube.com/watch?v=dv6_C4UqTfs&list=PLRtjMdoYXLf4inSULAHyCMqpIUj4cmBTr)
+
+[A-frame Video Course By PacktPub](https://www.packtpub.com/web-development/frame-web-vr-programming-tutorial-series-virtual-reality-video)
 
 https://aframe.io
 
