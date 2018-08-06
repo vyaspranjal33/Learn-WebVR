@@ -22,6 +22,8 @@ http://fossbytes.com/virtual-reality-works-ultimate-guide/
 
 [What is WebVR by Intel](https://youtu.be/fsRz59bmyR4?list=PLg-UKERBljNxNcpABiY0uIoxtE-7ZXvsd)
 
+[WebVR Playlist by Intel](https://www.youtube.com/watch?v=HyThSfCwnh0&list=PLg-UKERBljNzFxI0JmFOehQNfZ_Cf6SgD)
+
 [What is WebVR](https://www.youtube.com/watch?v=Le8pTXQqM3s)
 
 ## Start Here
