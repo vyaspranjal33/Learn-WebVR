@@ -72,7 +72,7 @@ https://aframe.io/aframe-school/#/
 
 https://medium.com/lightspeed-idea/webvr-50213e3cbef0
 
-## Books
+## Books 📚
 
 [Learning Virtual Reality](https://www.amazon.in/Learning-Developing-Immersive-Experiences-Applications/dp/9352132572) - Developing Immersive Experiences and Applications for Desktop, Web, and Mobile By Tony Parisi
 
