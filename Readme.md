@@ -54,6 +54,8 @@ https://virtualrealitypop.com/getting-started-with-webvr-cd40d3d7f5db
 
 [Learn A-frame to build VR Websites](https://www.udemy.com/webvr-with-a-frame-coding-for-virtual-reality-websites/)
 
+[Building for VR on the Web](https://codelabs.developers.google.com/codelabs/webvr/index.html?index=..%2F..%2Findex#0)
+
 https://aframe.io
 
 https://hacks.mozilla.org/2017/08/essential-webvr-resources/
