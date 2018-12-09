@@ -56,6 +56,8 @@ https://virtualrealitypop.com/getting-started-with-webvr-cd40d3d7f5db
 
 [Building for VR on the Web](https://codelabs.developers.google.com/codelabs/webvr/index.html?index=..%2F..%2Findex#0)
 
+[WebVR API tutorial @Auth0](https://auth0.com/blog/getting-started-with-the-new-webvr-api/)
+
 https://aframe.io
 
 https://hacks.mozilla.org/2017/08/essential-webvr-resources/
