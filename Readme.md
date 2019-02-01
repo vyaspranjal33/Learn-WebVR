@@ -18,6 +18,8 @@ https://en.wikipedia.org/wiki/Virtual_reality
 
 http://fossbytes.com/virtual-reality-works-ultimate-guide/
 
+[Virtual Reality 101 – A Beginners Guide](http://www.evaravr.com/virtual-reality-a-beginners-guide/)
+
 [WebVR Introduction by Intel](https://www.youtube.com/watch?v=E0LgYi4nf-o)
 
 [What is WebVR by Intel](https://youtu.be/fsRz59bmyR4?list=PLg-UKERBljNxNcpABiY0uIoxtE-7ZXvsd)
