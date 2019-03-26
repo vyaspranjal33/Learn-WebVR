@@ -36,6 +36,8 @@ https://www.babylonjs.com/
 
 https://aframe.io
 
+https://aframe.io/aframe-school
+
 https://facebook.github.io/react-vr/
 
 https://developer.mozilla.org/en-US/docs/Web/API/WebVR_API
