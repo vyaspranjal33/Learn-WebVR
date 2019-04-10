@@ -1,4 +1,4 @@
-![webvr](https://raw.githubusercontent.com/vyaspranjal33/images/master/webvr.jpg)
+[![Sparkline](https://stars.medv.io/vyaspranjal33/Learn-WebVR.svg)](https://stars.medv.io/vyaspranjal33/Learn-WebVR)
 
 # Learn WebVR
 
